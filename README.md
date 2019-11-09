@@ -13,11 +13,7 @@
 
 ## Preview
 
-### PC端
-![](assets/images/pc.png)
 
-### 移动端
-![](assets/images/ip.png)
 
 ## TODO
 - [x] 左栏固定（切换）
