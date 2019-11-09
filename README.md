@@ -1,6 +1,10 @@
 
 前端求职/程序员求职
 
+### 预览
+https://hongli.pro/resume.github.io/index.html
+
+
 ## Usage
 
 1. 先Star/Fork本项目，然后Clone或者直接下载到本地
